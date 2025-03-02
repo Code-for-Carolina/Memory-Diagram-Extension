@@ -1,6 +1,6 @@
 # Python Memory Debugger - VS Code Extension
 
-A custom **VS Code debugging extension** that visualizes Python variables and memory structures in an interactive diagram. Instead of the standard debugger window, this extension opens a **Memory Diagram Panel** to help developers understand variable states, object references, and memory allocation in real-time.
+A custom VS Code debugging extension that visualizes Python variables and memory structures in an interactive diagram. Instead of the standard debugger window, this extension opens a Memory Diagram Panel to help 110 students understand variable states and object references in real-time.
 
 ## Features
 ✅ **Custom Debug Window** – Replaces the default debugger with a visual representation of Python memory.
@@ -11,7 +11,7 @@ A custom **VS Code debugging extension** that visualizes Python variables and me
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ConorJones05/python-memory-debugger.git
+   git clone https://github.com/ConorJones05/110MemoryDiagram.git
    cd python-memory-debugger
    ```
 2. Install dependencies:
